@@ -7,9 +7,11 @@ https://www.coursera.org/account/accomplishments/certificate/QC7EC3S9KFTC
 	
 Course 2 : Functional Program Design in Scala
   
-		In Progress...
+https://www.coursera.org/account/accomplishments/certificate/2AFZ7Q8ATX5M
 
 Course 3 : Parallel programming
+
+		In Progress...
 
 Course 4 : Big Data Analysis with Scala and Spark
 
