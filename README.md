@@ -11,9 +11,11 @@ https://www.coursera.org/account/accomplishments/certificate/2AFZ7Q8ATX5M
 
 Course 3 : Parallel programming
 
-		In Progress...
+https://www.coursera.org/account/accomplishments/certificate/L95UL84GNWWY
 
 Course 4 : Big Data Analysis with Scala and Spark
+
+		In Progress...
 
 Course 5 : Functional Programming in Scala Capstone
 
